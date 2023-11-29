@@ -30,8 +30,16 @@ yarn add o npm install
 
 ## Iniciar el proyecto
 
+Para el Backend
 ```
-$ yarn dev 
+$ cd ./Back
+$ node app.js 
+```
+
+Para el Frontend
+```
+cd ./Front
+$ yarn dev
 ```
 
 ## Acceder a la pagina
