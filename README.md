@@ -14,7 +14,7 @@ Proyecto para la Tesina de una Aplicación web para la creación de graficas din
 ## Instalación local
 ### Clonar el repositorio
 ```bash
-git clone https://github.com/marcosglez02/Reporteador.git
+git clone https://github.com/carlos8657/SysReport
 ```
 
 
