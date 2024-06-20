@@ -11,7 +11,7 @@ Proyecto para la Tesina de una Aplicación web para la creación de graficas din
 *	Bootstrap
 *	Visual Studio Code
 
-## Instalación local
+## Instalación local local
 ### Clonar el repositorio
 ```bash
 git clone https://github.com/carlos8657/SysReport
